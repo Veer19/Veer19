@@ -35,5 +35,5 @@ Let’s build things that make life a little easier, smarter, and more fun.
 ---
 
 ### 🔗 Find me here:
-- [LinkedIn](https://www.linkedin.com/in/veer19)  
+- [LinkedIn](https://www.linkedin.com/in/veersingh19)  
 - [Instagram](https://www.instagram.com/notsoveer_)
