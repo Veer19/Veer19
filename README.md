@@ -7,14 +7,17 @@ An expert in talking to ChatGPT and figure out anything, currently experimenting
 ---
 
 ### ⚒️ What I’m building:
-- 🎙️ **Data Chat - A Whatsapp AI agent** - [View Project](https://github.com/Veer19/data-chat)
+- 📊 **Data Chat - A Whatsapp AI agent**
   A Whatsapp agent enabling business owners to fetch their data in natural language
+  [View Project](https://github.com/Veer19/data-chat)
   
-- 🎙️ **A Voice Clone Detector** - [View Project](https://github.com/Veer19/voice-clone-detection)
+- 🎙️ **A Voice Clone Detector**
   Detects AI-generated voices in customer support calls using audio signals + LLM-based filler word analysis.
+  [View Project](https://github.com/Veer19/voice-clone-detection)
 
-- 📄 **Articleate - A Webpage Summarizer** - [View Project](https://github.com/Veer19/article-ate)
+- 📄 **Articleate - A Webpage Summarizer**
   Chrome extension to chat with blog posts and get clean, customizable summaries.
+  [View Project](https://github.com/Veer19/article-ate)
 
 ---
 
